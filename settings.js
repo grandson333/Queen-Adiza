@@ -15,7 +15,7 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 //--------------------[ SESSION ID ]----------------------//
 
-global.SESSION_ID = process.env.SESSION_ID || 'QUEEN-ADIZA~XEpwHBCJ#4A5iMgsh6cep2DZMytTF-1H8bWryJbYN6v9xre-tUv0' 
+global.SESSION_ID = process.env.SESSION_ID || 'QUEEN-ADIZA~zJAjnCYa#fF3x1e8VnZDECQu0hw6RpkNbTQoyM_JXVV1W1_54Irg' 
 //Enter your Adiza session id here; must start with QUEEN~ADIZA~
 
 //--------------------[ BOT NAME ]----------------------//
@@ -24,11 +24,11 @@ global.botname = process.env.BOT_NAME || 'Queen-Adiza'
 
 //-----------------[ OWNER NUMBER ]------------------//
 
-global.ownernumber = process.env.OWNER_NUMBER || '233598370909' 
+global.ownernumber = process.env.OWNER_NUMBER || '233266676258' 
 
 //-----------------[ OWNER NAME ]------------------//
 
-global.ownername = process.env.OWNER_NAME || 'Matrix-X-King' 
+global.ownername = process.env.OWNER_NAME || 'KING LUCCI' 
 
 //------------[ STICKER PACKNAME ]-----------------//
 
